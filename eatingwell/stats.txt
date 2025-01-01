@@ -1,0 +1,7 @@
+{
+ 'elapsed_time_seconds': 38442.88681,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 10, 9, 21, 55, 6, 578428, tzinfo=datetime.timezone.utc),
+ 'item_scraped_count': 795,
+ 'start_time': datetime.datetime(2023, 10, 9, 11, 14, 23, 691618, tzinfo=datetime.timezone.utc)
+ }
