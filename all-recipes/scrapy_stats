@@ -1,0 +1,6 @@
+Scrapy stats=
+  {'elapsed_time_seconds': 112493.445157, //31.248 hrs
+  'finish_time': 2023-10-08 18:01,
+  'item_scraped_count': 34077,
+  'start_time': 2023-10-07 10:47,
+  'finish_reason': 'finished',}
